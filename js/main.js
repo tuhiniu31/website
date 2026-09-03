@@ -1,5 +1,5 @@
-/**
- * Dr. Ohidujjaman - Academic & Research Portfolio
+﻿/**
+ * Dr. Ohidujjaman Tuhin - Academic & Research Portfolio
  * Interactive Features & Data System
  */
 
@@ -413,7 +413,7 @@ function initContactForm() {
 
     // Construct mailto link as fallback
     const recipient = 'ohidujjaman@cse.uiu.ac.bd';
-    const mailtoLink = `mailto:${recipient}?subject=${encodeURIComponent(subject || 'Inquiry from Dr. Ohidujjaman Website')}&body=${encodeURIComponent("Name: " + name + "\nEmail: " + email + "\n\n" + message)}`;
+    const mailtoLink = `mailto:${recipient}?subject=${encodeURIComponent(subject || 'Inquiry from Dr. Ohidujjaman Tuhin Website')}&body=${encodeURIComponent("Name: " + name + "\nEmail: " + email + "\n\n" + message)}`;
 
     if (statusDiv) {
       statusDiv.className = 'form-submit-status success';

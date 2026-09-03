@@ -1,6 +1,6 @@
-﻿# Dr. Ohidujjaman - Academic & Research Website
+﻿# Dr. Ohidujjaman Tuhin - Academic & Research Website
 
-Official personal academic website and research portfolio of **Dr. Ohidujjaman** (Ph.D., Saitama University, Japan), Associate Professor in the Department of Computer Science and Engineering (CSE) at **United International University (UIU)**, Dhaka, Bangladesh.
+Official personal academic website and research portfolio of **Dr. Ohidujjaman Tuhin** (Ph.D., Saitama University, Japan), Associate Professor in the Department of Computer Science and Engineering (CSE) at **United International University (UIU)**, Dhaka, Bangladesh.
 
 ## ðŸ”¬ Research Focus
 - **Speech Signal Processing**: Bone-Conducted (BC) speech enhancement, spectral estimation, and acoustic reconstruction.
